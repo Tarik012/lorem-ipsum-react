@@ -1,0 +1,7 @@
+.content {
+  background-color: grey;
+  border: 1px solid black;
+  width: 25%;
+  margin-bottom: 20px;
+  overflow: hidden;
+}
