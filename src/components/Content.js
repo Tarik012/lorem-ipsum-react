@@ -5,7 +5,7 @@ const Content = (props) => {
   return (
     <div className="content">
       <Title nameTitle={props.name} />
-      <Description />
+      <Description textDescription={props.text} />
     </div>
   );
 };
